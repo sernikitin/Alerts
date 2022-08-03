@@ -1,5 +1,5 @@
 import React from "react";
-import AlertComponent from "./index";
+import AlertComponent from "./AlertComponent";
 import Stack from "@mui/material/Stack";
 import { useSelector, useDispatch } from "react-redux";
 import { isEmpty } from "lodash";
