@@ -1,0 +1,10 @@
+main {
+    margin-top: 60px;
+}
+form{
+    width: 25rem;
+    margin: auto;
+}
+.MuiPaper-root {
+    margin-top: 10px!important;
+}
